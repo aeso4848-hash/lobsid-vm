@@ -1,0 +1,12 @@
+ask 000
+out 000
+clr    
+inc 000
+pop 000
+dbl    
+dbl    
+dbl    
+psh 000
+inc 000
+inc 000
+out 000

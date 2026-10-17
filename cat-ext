@@ -1,0 +1,6 @@
+ask_ 0000
+out_ 0000
+clr_ 0001
+setp 000A
+out_ 0000
+halt

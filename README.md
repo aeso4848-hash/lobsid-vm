@@ -6,3 +6,7 @@ Because of noun lenghts,
 mini has 256 bytes of virtual ram, (00-ff)
 std has 4KiB of ram, (000-fff)
 ext has 64KiB of ram. (0000-ffff)
+
+I am planning to make Lobrust, a better lobsid written in rust.
+
+NOTE; If my code sucks, at least know that it's MY code, not an AI's.
